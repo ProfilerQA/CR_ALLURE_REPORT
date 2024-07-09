@@ -1,0 +1,26 @@
+{
+    "op": "updateevent",
+    "course": 146865790,
+    "date": "2024-07-10",
+    "note": "",
+    "startTime": 45900,
+    "endTime": 56700,
+    "principal1": 3029535,
+    "principal2": 3029537,
+    "participants": "",
+    "billing": "<a><s><l>10800</l><c>0</c><a>0</a></s></a>",
+    "placeOfServiceId": "",
+    "timeZone": "America/New_York",
+    "userTimeZone": "America/New_York",
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [],
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

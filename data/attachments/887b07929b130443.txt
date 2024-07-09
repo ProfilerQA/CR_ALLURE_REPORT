@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"","id":10447858,"name":"Appointment-types nameSpcRx","secLength":3600,"deletedOn":"","deletedBy":"","provider":288525},"result":"OK","failed":false,"cachedTime":0}

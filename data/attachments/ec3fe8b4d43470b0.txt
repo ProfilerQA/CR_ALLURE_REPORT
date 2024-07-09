@@ -1,0 +1,7 @@
+{
+    "masterId": 350044020,
+    "itemId": 350044020,
+    "commentId": 5761623,
+    "reason": "test delete comment",
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,11 @@
+{
+    "server": "volt-adc",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "no-cache",
+    "content-type": "text/html; charset=UTF-8",
+    "pragma": "no-cache",
+    "set-cookie": "253103=AyliMkxzh3tstU7dW21yqyL3H8DU35x6TvASFRnxN8ffh4VqWSUAbunhEPKapTf3LKYiALFqmaQeyaZJRFaQW1wbVRn734ouCAbOPF5CO+2pdWlwic4uZqV09EJ1T5eSy/J3cuqZifMdPMTSE17rLbRkX8W/kt/9YecKQFemTGjCp3/l; path=/",
+    "x-volterra-location": "dc12-ash",
+    "content-length": "269",
+    "date": "Tue, 09 Jul 2024 14:10:36 GMT"
+}

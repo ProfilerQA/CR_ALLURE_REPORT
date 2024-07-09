@@ -1,0 +1,20 @@
+{
+    "id": null,
+    "name": "new reimbursement plan 88eM4lgZ",
+    "typeId": 12,
+    "startDate": "2018-12-18T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "description": "new description b9LMO0b5XJ58ssN8yHHmZCZpl",
+    "url": "https://test.com",
+    "benefitGroups": [],
+    "coverageOptions": [],
+    "reimbursementInterval": null,
+    "reimbursementAmount": 0,
+    "__validationConfigured": true,
+    "validationModifiedTracker": {
+        "name": true,
+        "startDate": true,
+        "endDate": true,
+        "reimbursementAmount": true
+    }
+}

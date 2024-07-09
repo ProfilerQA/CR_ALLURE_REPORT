@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/09/2024 17:12:24","requesttime":15,"fields":{"description":"","clientRate":"","Id":68418972,"providerName":"Q. Therapy","code":"Code nameUbCGZ","clientName":"n/a","client":"","customCodeId":303071,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/09/2024 14:12:24","querytime":0,"result":"ok"}

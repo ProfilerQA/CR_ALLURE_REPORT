@@ -1,0 +1,6 @@
+{
+    "name": "new labelDCUKXLoTBYbL",
+    "parentId": 0,
+    "color": "492146|ffffff",
+    "isOrgLabel": false
+}

@@ -1,0 +1,1 @@
+{"connectionTransactionId":"00000000000000000000000000000000","result":"OK","responseStatus":{"errorCode":"Forbidden","message":"Incomplete connection jobs between 3029444 and 3029460, 3029465, 3029471, 3029475, 3029479, 3029482","errors":[]},"failed":false,"cachedTime":0}

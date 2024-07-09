@@ -1,0 +1,6 @@
+{
+    "id": 0,
+    "name": "new criteria template zCvPr",
+    "description": "new criteria template descriptioneMQfJ10jZeb0LAb",
+    "criteria": []
+}

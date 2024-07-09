@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"","id":10447855,"name":"Appointment-types nameSXQMK","secLength":3600,"deletedOn":"","deletedBy":"","provider":3029519},"result":"OK","failed":false,"cachedTime":0}

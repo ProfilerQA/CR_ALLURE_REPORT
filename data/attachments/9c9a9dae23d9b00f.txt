@@ -1,0 +1,13 @@
+{
+    "tasks": "6287158",
+    "contactId": 3029503,
+    "_track": {
+        "channel": "tasks",
+        "action": "tasks/bulk/assign",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

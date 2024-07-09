@@ -1,0 +1,13 @@
+{
+    "date": "Tue, 09 Jul 2024 14:10:25 GMT",
+    "content-type": "application/problem+json; charset=utf-8",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "expires": "0",
+    "pragma": "no-cache",
+    "x-envoy-upstream-service-time": "79",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "253103=Q0D/Nbq+7oVmsmO0L+Wjbpf33ivB71QM5Sa4oxbt3kwKlfCXq0QGTQjV+yF1aUnMzJcG76n5xvGZOaoYbyY6uqsqbZCZfuRtK3h2QkagpFDDFt2/tfFK59kfb6xhddKuHHg88SWP0zk+6Q27GllNRcVd3vF6q4Spp1lJ//yBqlfJWh4B; path=/",
+    "x-volterra-location": "sv10-sjc",
+    "server": "volt-adc",
+    "transfer-encoding": "chunked"
+}

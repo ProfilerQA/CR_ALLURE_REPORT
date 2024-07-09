@@ -1,0 +1,14 @@
+{
+    "Date": "Tue, 09 Jul 2024 14:09:28 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "149",
+    "Connection": "keep-alive",
+    "Server": "Microsoft-HTTPAPI/2.0",
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Methods": "POST, GET, DELETE, PATCH, PUT, OPTIONS",
+    "Access-Control-Allow-Headers": "*",
+    "x-amzn-RequestId": "837f5a3c-53b9-459d-8685-1ca6ef308c2c",
+    "x-amz-apigw-id": "apen0H9uIAMEmfw=",
+    "X-Amzn-Trace-Id": "Root=1-668d4498-1760996f7c26e5fa49865e8c"
+}

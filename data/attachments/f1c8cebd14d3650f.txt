@@ -1,0 +1,8 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "eventId": 613286145,
+        "providerId": 3029445
+    },
+    "type": "EVENT_UPDATE"
+}

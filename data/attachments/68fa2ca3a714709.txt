@@ -1,0 +1,13 @@
+{
+    "id": 768141,
+    "serviceCodeId": 303071,
+    "_track": {
+        "channel": "billingmanager",
+        "action": "servicecodes/defaultrates/rate/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}

@@ -1,0 +1,14 @@
+{
+    "Date": "Tue, 09 Jul 2024 14:09:24 GMT",
+    "Content-Type": "application/json",
+    "Content-Length": "149",
+    "Connection": "keep-alive",
+    "Server": "Microsoft-HTTPAPI/2.0",
+    "Access-Control-Allow-Origin": "https://beta-ent-dev-members.env.centralreach.com",
+    "Access-Control-Allow-Credentials": "true",
+    "Access-Control-Allow-Methods": "POST, GET, DELETE, PATCH, PUT, OPTIONS",
+    "Access-Control-Allow-Headers": "X-Requested-With, X-Trace-QueryText, X-CrApi-AuthSecret, X-CrApi-Token, X-CrApi-ClientSource, X-CrApi-TimezoneOffset, X-ss-pid, X-ss-id, Content-Type",
+    "x-amzn-RequestId": "9f0db637-fb29-4c27-a795-f26213b29611",
+    "x-amz-apigw-id": "apenOFOVIAMEoMw=",
+    "X-Amzn-Trace-Id": "Root=1-668d4493-7332eaf3316c316e7c7f35fd"
+}

@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 17:11:56","success":true,"requesttime":0,"cacheKey":"","measurementTypes":[{"Code":"kg","Description":"kg"},{"Code":"lbs","Description":"lbs"}],"cacheDate":"07/09/2024 14:11:56","querytime":0,"result":"ok"}

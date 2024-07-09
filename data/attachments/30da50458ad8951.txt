@@ -1,0 +1,10 @@
+{
+    "masterId": "350044040",
+    "parentId": "350044040",
+    "name": "Lear tree api video",
+    "description": "Lear tree api item description",
+    "allowComments": true,
+    "type": "video",
+    "template": "",
+    "_utcOffsetMinutes": -180
+}

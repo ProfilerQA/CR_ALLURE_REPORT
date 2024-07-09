@@ -1,0 +1,1 @@
+{"dateProto":"01/02/1999 03:04:05","success":true,"cacheExpires":"07/09/2024 17:12:37","requesttime":110,"cacheKey":"","cacheDate":"07/09/2024 14:12:37","querytime":0,"result":"ok"}

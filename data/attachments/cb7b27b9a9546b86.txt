@@ -1,0 +1,1 @@
+{"items":[{"id":10668,"transactionId":122355,"amount":90.0000,"note":"payer l5U9f","createdOn":"2024-07-09T14:09:56.6230000Z","createdBy":288525}],"result":"OK","failed":false,"cachedTime":0}

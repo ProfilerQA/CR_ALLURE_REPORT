@@ -1,0 +1,39 @@
+{
+    "draftName": "Office Location 1 - pzC3R",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "Clinic",
+    "recurrenceEndsOn": "2024-08-11",
+    "startDate": "2024-07-10T00:00:00.000Z",
+    "endDate": "2024-07-14T00:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "maximumTherapyHours",
+    "utilizationHours": "AuthorizedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 180
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594944
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594944
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": [
+            54545
+        ]
+    },
+    "timeBlocksStart": 600,
+    "timeBlocksEnd": 1020,
+    "timeBlocksDurations": 120
+}

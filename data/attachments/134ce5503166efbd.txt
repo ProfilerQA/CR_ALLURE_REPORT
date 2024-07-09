@@ -1,0 +1,20 @@
+{
+    "id": 45458,
+    "name": "Fee schedule rCi8C",
+    "description": "Description",
+    "isDefault": false,
+    "isActive": true,
+    "validation": {
+        "name": "Fee schedule 123",
+        "errors": []
+    },
+    "_track": {
+        "channel": "billingmanager",
+        "action": "feeschedules/update",
+        "source": "Mobile",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

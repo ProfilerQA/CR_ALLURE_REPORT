@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/09/2024 17:11:03","success":true,"requesttime":15,"group":{"sessions":[{"sortOrder":1,"assignedName":"Client1 First NameABuaN Client1 Last Name4bwDl","name":"new session to user by api","id":836413}],"Name":"test API","Id":6223},"cacheDate":"07/09/2024 14:11:03","querytime":0,"result":"ok"}

@@ -1,0 +1,20 @@
+{
+    "content-type": "application/json; charset=UTF-8",
+    "content-length": "782",
+    "date": "Tue, 09 Jul 2024 14:09:02 GMT",
+    "x-amzn-requestid": "d0cf2485-a6ec-415d-bec0-503da7665927",
+    "content-encoding": "gzip",
+    "x-amz-apigw-id": "apejzH-wIAMEIqQ=",
+    "cache-control": "no-store, no-cache, max-age=0",
+    "x-amzn-trace-id": "Root=1-668d447e-1263bf173b605d71046aeacf;Parent=273f91dcfc421ea0;Sampled=1;lineage=c37aa359:0",
+    "pragma": "no-cache",
+    "x-cache": "Miss from cloudfront",
+    "via": "1.1 6f00b57bff6c033d9351d367b6c1fa7e.cloudfront.net (CloudFront)",
+    "x-amz-cf-pop": "SFO5-P1",
+    "x-amz-cf-id": "qlpcQuP9yLKf2VAZsVbhQfGdP8ZM2Z_LLuZTHx_2dGPD875Jfiy9gA==",
+    "x-envoy-upstream-service-time": "241",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "253103=wyT4a/jHS2QbBTeKsSwDYVSe51qBAMXFxa1RIYKubf/2SRcoUVrzQaC9L9a+G1C5dH1V9Zo8g3ouAUsEOxiySej70jxirhZ3hY/wd1u6391aIwE+/H7YSB19W8CrHxqK9iKntvvWst+2DNCUXSsIN/5mcUtqCeqcI5PeFkESsrENl0xX; path=/",
+    "x-volterra-location": "sv10-sjc",
+    "server": "volt-adc"
+}

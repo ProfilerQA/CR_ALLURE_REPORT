@@ -1,0 +1,15 @@
+{
+    "entryId": "",
+    "name": "Availability for Employee2 - VYcqF",
+    "notes": "",
+    "startDate": "2024-07-09",
+    "endDate": "02/01/9999",
+    "startTs": 21600,
+    "endTs": 79200,
+    "location": 3594921,
+    "visibility": "0",
+    "types": "",
+    "days": "1,2,4,5",
+    "providerId": 3029581,
+    "_utcOffsetMinutes": 240
+}
