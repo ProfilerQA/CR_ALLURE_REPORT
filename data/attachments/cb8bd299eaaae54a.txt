@@ -1,0 +1,35 @@
+{
+    "draftName": "Location 1 - JD4GO",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "startDate": "2024-07-10T17:00:00.000Z",
+    "endDate": "2024-07-11T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 60,
+    "optimizeBy": "balanced",
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594825
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594825
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": [
+            54753
+        ]
+    }
+}

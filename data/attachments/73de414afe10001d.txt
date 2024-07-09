@@ -1,0 +1,31 @@
+{
+    "optimizationType": null,
+    "startDate": null,
+    "endDate": null,
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": null,
+    "utilizationHours": "ClientAcceptedHours",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594834
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594834
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    },
+    "queryFields": [
+        "numberOfClients",
+        "numberOfProviders"
+    ]
+}
+

@@ -1,0 +1,10 @@
+{
+    "masterId": 350042865,
+    "parentId": 350042865,
+    "name": "test",
+    "description": "",
+    "allowComments": true,
+    "type": "test",
+    "template": "",
+    "_utcOffsetMinutes": 240
+}

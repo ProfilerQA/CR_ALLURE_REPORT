@@ -1,0 +1,20 @@
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: warn, messages: Using "globals" is deprecated. Use "pm.globals" instead.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: log, messages: Contact: 1084143 does not have firstName
+level: log, messages: Contact: 1084143 does not have middleInitial
+level: log, messages: Contact: 1084143 does not have lastName
+level: log, messages: Contact: 1084143 does not have company
+level: log, messages: Contact: 1084143 does not have email
+level: log, messages: Contact: 1084143 does not have guardianFirstName or guardianLastName
+level: log, messages: Contact does not have property isActive
+level: log, messages: Contact does not have property npiNumber
+level: log, messages: Contact does not have property type
+level: log, messages: Contact does not have property phoneCell
+level: log, messages: Contact does not have property phoneHome
+level: log, messages: Contact does not have property phoneWork
+level: log, messages: Contact does not have property qbId
+level: warn, messages: Using "globals" is deprecated. Use "pm.globals" instead.
+level: warn, messages: Using "request" is deprecated. Use "pm.request" instead.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: log, messages: Status sent for case: 54321

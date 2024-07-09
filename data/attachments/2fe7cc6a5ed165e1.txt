@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:20:32","success":true,"requesttime":0,"cacheKey":"","cacheDate":"07/09/2024 07:20:32","flowAmountTypes":[{"Code":"4","Description":"Heavy"},{"Code":"2","Description":"Light"},{"Code":"3","Description":"Medium"},{"Code":"1","Description":"Spotting"},{"Code":"0","Description":"Unknown"}],"querytime":0,"result":"ok"}

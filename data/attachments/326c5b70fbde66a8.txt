@@ -1,0 +1,6 @@
+{
+    "id": 7959,
+    "assessmentDate": "2024-07-09T05:00:00+00:00",
+    "assessor": 288525,
+    "_utcOffsetMinutes": 240
+}

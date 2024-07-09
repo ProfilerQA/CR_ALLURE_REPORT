@@ -1,0 +1,10 @@
+{
+    "masterId": 350042865,
+    "parentId": 350042865,
+    "name": "datapercent",
+    "description": "",
+    "allowComments": true,
+    "type": "datapercent",
+    "template": "",
+    "_utcOffsetMinutes": 240
+}

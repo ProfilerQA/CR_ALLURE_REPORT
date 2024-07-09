@@ -1,0 +1,11 @@
+{
+  "MasterId": "350042862",
+  "Name": "new dateranges TzVfr",
+  "LeftLabel": "new LeftLabel Aj16inDhihh9",
+  "RightLabel": "new RightLabel pG8WdcIOFHv2",
+  "StartDate": "2018-11-16T07:06:39.722Z",
+  "EndDate": "2018-11-16T07:06:39.722Z",
+  "OriginatingDataValueId": 0,
+  "Comment": "new RightLabel YfO6zNA5fiFJjcGbtwLQHTOD5X6l1cTCuTdAxQegGXGwFjsDsc",
+  "Type": "page"
+}

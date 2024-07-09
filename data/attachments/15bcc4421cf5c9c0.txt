@@ -1,0 +1,1 @@
+{"querytime":0,"cacheDate":"07/09/2024 07:20:48","dateProto":"01/02/1999 03:04:05","result":"ok","version":{"Id":5666502,"ItemId":350042890,"FileName":"C0DPdy98e4c","Type":"youtube","ExistingResourceId":""},"requesttime":62,"cacheKey":"","success":true,"cacheExpires":"07/09/2024 10:20:48"}

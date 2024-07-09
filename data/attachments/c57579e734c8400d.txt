@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:19:40","success":true,"requesttime":17,"cacheKey":"","positions":[{"Name":"test name","Id":29339,"CompanyName":"test company name"}],"cacheDate":"07/09/2024 07:19:40","querytime":0,"result":"ok"}

@@ -1,0 +1,20 @@
+{
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "method": "POST",
+    "scheme": "https",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate, br",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "content-type": "application/json; charset=UTF-8",
+    "origin": "https://beta-ent-dev-members.env.centralreach.com",
+    "referer": "https://beta-ent-dev-members.env.centralreach.com/",
+    "x-crapi-clientsource": "members-spa",
+    "x-requested-with": "XMLHttpRequest",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "19b73eb6-c6e2-49a8-b149-66392b3cfd6f",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Connection": "keep-alive",
+    "Content-Length": "44",
+    "Cookie": "ss-id=Rfstqs28siFEZSMWd70K; ss-pid=v721QjHdBmVObpbobLy9; ss-opt=temp"
+}

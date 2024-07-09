@@ -1,0 +1,13 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "eventId": 613285999,
+        "serviceLines": [
+            {
+                "serviceCodeId": 303028,
+                "authorizationId": 20234445
+            }
+        ]
+    },
+    "type": "EVENT_UPDATE"
+}

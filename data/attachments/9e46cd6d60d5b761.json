@@ -1,0 +1,13 @@
+{
+    "content-type": "application/json; charset=UTF-8",
+    "origin": "https://beta-ent-dev-members.env.centralreach.com",
+    "referer": "https://beta-ent-dev-members.env.centralreach.com/",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "b0142de6-ff3c-42b1-a44b-a6f014c656bd",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=anzj8cARojz9Zm9IYMJm; ss-pid=2PDr7tZpWyGLhmUK609D; ss-opt=temp"
+}

@@ -1,0 +1,7 @@
+{
+    "TargetData": {
+        "AsOfMonth": "6",
+        "AsOfYear": "8",
+        "TotalHours": "69"
+    }
+}

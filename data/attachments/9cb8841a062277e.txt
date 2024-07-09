@@ -1,0 +1,13 @@
+{
+    "id": "",
+    "name": "Appointment-types namehcbN5",
+    "description": "",
+    "hours": "1",
+    "minutes": "0",
+    "secLength": 3600,
+    "validation": {
+        "name": "Appointment-types namehcbN5",
+        "secLength": 3600,
+        "errors": []
+    }
+}

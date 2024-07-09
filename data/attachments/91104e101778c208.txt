@@ -1,0 +1,42 @@
+{
+    "draftName": "Optimisation draft name -  Vhnwa Cancellation",
+    "optimizationType": "EmployeeCancellationCoverage",
+    "startDate": "2024-07-10T00:00:00",
+    "endDate": "2024-07-15T23:59:59",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 180,
+        "lengthOfLunch": 60
+    },
+    "locationTimeZone": "America/New_York",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594871
+        ],
+        "selectedContactIds": []
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594871
+        ],
+        "selectedContactIds": [],
+        "includeGenerics": false
+    },
+    "employeeCancellationDetails": [
+        {
+            "providerId": 3029431,
+            "isAllDay": true,
+            "reasonId": 2,
+            "additionalNotes": "test additional notes",
+            "includeLabelIds": [],
+            "excludeLabelIds": [],
+            "selectedContactIds": [],
+            "startDateTime": "2024-07-10T00:00:00",
+            "endDateTime": "2024-07-15T23:59:59"
+        }
+    ]
+}

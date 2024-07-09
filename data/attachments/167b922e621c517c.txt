@@ -1,0 +1,11 @@
+{
+  "MasterId": "350042862",
+  "Name": "new dateranges fweWO",
+  "LeftLabel": "new LeftLabel cNVbqtdgfZLA",
+  "RightLabel": "new RightLabel Kdf3ElNX4Jfh",
+  "StartDate": "2018-11-16T07:06:39.722Z",
+  "EndDate": "2018-11-16T07:06:39.722Z",
+  "OriginatingDataValueId": 0,
+  "ReplaceComment": "new ReplaceComment LzeuSXZo4khFWnxKtAK31gw7I5dNFClfE41LJdKDnWL0xTW8uK",
+  "Type": "page"
+}

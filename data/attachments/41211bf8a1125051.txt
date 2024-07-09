@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:20:16","measurementUnits":[{"Code":"mg_dl","Description":"mg/dL"},{"Code":"mmol_l","Description":"mmol/L"}],"success":true,"requesttime":0,"cacheKey":"","cacheDate":"07/09/2024 07:20:16","querytime":0,"result":"ok"}

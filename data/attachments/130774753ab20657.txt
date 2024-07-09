@@ -1,0 +1,7 @@
+{
+    "transactionType": 1,            
+    "fundingType": 1,               
+    "notes": "Initial deposit",     
+    "amount": 500.00,               
+    "billingPaymentId": null        
+}

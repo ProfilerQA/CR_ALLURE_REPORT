@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/09/2024 10:20:27","requesttime":15,"fields":{"description":"","clientRate":"","Id":68418947,"providerName":"Q. Therapy","code":"Code namePhdDZ","clientName":"n/a","client":"","customCodeId":303040,"providerRate":100.00,"provider":288525},"cacheKey":"","cacheDate":"07/09/2024 07:20:27","querytime":16,"result":"ok"}

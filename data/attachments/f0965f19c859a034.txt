@@ -1,0 +1,1 @@
+{"connectionTransactionId":"08dc9fe7327fafe60892a54c7700029b","jobIds":["08dc9fe7327d4d8c0892a54c77000297","08dc9fe7327d4d8c0892a54c77000298","08dc9fe7327d4d8c0892a54c77000299","08dc9fe7327d4d8c0892a54c7700029a"],"result":"OK","failed":false,"cachedTime":0}

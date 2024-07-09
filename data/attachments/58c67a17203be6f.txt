@@ -1,0 +1,35 @@
+{
+    "draftName": "Office Location 2 - QpOTQ",
+    "optimizationType": "FillClientHours",
+    "optimizeBy": "maximumTherapyHours",
+    "startDate": "2024-07-10T16:00:00.000Z",
+    "endDate": "2024-07-14T16:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 240,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "locationTimeZone": "America/New_York",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594852
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594852
+        ],
+        "selectedContactIds": [],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:18:33","success":true,"querytime":0,"requesttime":15,"cacheKey":"","cacheDate":"07/09/2024 07:18:33","fields":{"Id":28295,"Color":"999999|ffffff","CurrentUserId":288525,"ParentLabelId":0,"Name":"testAPI"},"result":"ok"}

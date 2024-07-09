@@ -1,0 +1,9 @@
+{
+  "Type": "1",
+  "Name": "new bundle",
+  "Scope": "private",
+  
+  
+  "assignedTo": 3029286
+
+}

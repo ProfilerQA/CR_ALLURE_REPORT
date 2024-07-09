@@ -1,0 +1,6 @@
+{
+    "itemId": 350042865,
+    "masterId": 350042865,
+    "lockStatus": true,
+    "_utcOffsetMinutes": 300
+}

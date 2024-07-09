@@ -1,0 +1,16 @@
+{
+    "course": 146865606,
+    "date": "2024-07-10",
+    "reason": 0,
+    "reasonName": "",
+    "note": "",
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/delete",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

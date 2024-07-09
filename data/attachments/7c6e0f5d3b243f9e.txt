@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/09/2024 10:20:31","success":true,"requesttime":0,"group":{"CreatedBy":288525,"Id":6222,"Name":"Test grpoup by API","CreationDate":"07/09/2024 07:20:31"},"cacheDate":"07/09/2024 07:20:31","querytime":0,"result":"ok"}

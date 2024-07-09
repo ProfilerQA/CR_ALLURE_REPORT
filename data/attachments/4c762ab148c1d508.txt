@@ -1,0 +1,11 @@
+{
+  "MasterId": "350042862",
+  "Name": "new dateranges vniP9",
+  "LeftLabel": "new LeftLabel 6GzmixVzxLpG",
+  "RightLabel": "new RightLabel xzBoGrO5XcyI",
+  "StartDate": "2018-11-16T07:06:39.722Z",
+  "EndDate": "2018-11-16T07:06:39.722Z",
+  "OriginatingDataValueId": 0,
+  "Comment": "new RightLabel IowyzSWgyL3YvbmeNk4LQZ86rx0awKqHxWQZDdceyWI7pGdzXI",
+  "Type": "page"
+}
