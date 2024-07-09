@@ -1,0 +1,20 @@
+{
+    "op": "validateupdateevent",
+    "course": 146865608,
+    "date": "2024-07-10",
+    "note": "",
+    "startTime": 32400,
+    "endTime": 46800,
+    "principal1": 3029377,
+    "principal2": 3029380,
+    "participants": "",
+    "billing": "<a><s><l>14400</l><c>0</c><a>0</a></s></a>",
+    "placeOfServiceId": "",
+    "isEventRecover": true,
+    "isCanceledUpdate": false,
+    "timeZone": "America/New_York",
+    "userTimeZone": "America/New_York",
+    "qualificationWarningsOverridden": false,
+    "feeScheduleRateIds": [],
+    "_utcOffsetMinutes": 300
+}

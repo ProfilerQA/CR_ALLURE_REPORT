@@ -1,0 +1,14 @@
+{
+	"name": "new messagecbKxb",
+    "bcc": true,
+    "contentText": "<p>textW5DG6MrMpiZxQKyBXIewLK932His8KWrSgF5yvztnyDuIH8cHE</p>",
+    "recipients": [
+        {
+            "id": "3029272",
+            "name": "TEST TEST1 (Client ID: 381259)",
+            "type": "C"
+        }
+    ],
+    "archiveMessage": false,
+    "attachments": ""
+}

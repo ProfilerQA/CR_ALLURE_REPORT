@@ -1,0 +1,7 @@
+{
+    "subdomain": "members",
+    "username": "UsernamecK1Fa",
+    "password":"Agent-007",
+    "x": "",
+    "_utcOffsetMinutes": -120
+}

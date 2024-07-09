@@ -1,0 +1,7 @@
+{
+    "useManualPreferredProviders": true,
+    "preferredProviders": [
+        3029414,
+        3029414
+    ]
+}

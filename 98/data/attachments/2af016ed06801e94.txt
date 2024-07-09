@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:20:09","success":true,"requesttime":0,"cacheKey":"","irregularHeartbeatTypes":[{"Code":"unknown","Description":"Don't know"},{"Code":"no","Description":"No"},{"Code":"yes","Description":"Yes"}],"cacheDate":"07/09/2024 07:20:09","querytime":0,"result":"ok"}

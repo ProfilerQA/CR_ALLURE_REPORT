@@ -1,0 +1,8 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "eventId": 613285978,
+        "date": "2024-07-11"
+    },
+    "type": "EVENT_UPDATE"
+}

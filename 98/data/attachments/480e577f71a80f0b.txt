@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 10:20:22","success":true,"requesttime":0,"cacheKey":"","measurementTypes":[{"Code":"cm","Description":"cm"},{"Code":"ft","Description":"ft"}],"cacheDate":"07/09/2024 07:20:22","querytime":0,"result":"ok"}

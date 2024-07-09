@@ -1,0 +1,14 @@
+{
+  "masterId": 350042879,
+  "itemId": 350042880,
+  "goalId": 296614008,
+  "dateInitiated": "2024-07-09",
+  "status": 1,
+  "assessmentId": "",
+  "domainId": 0,
+  "responsibilityId": 0,
+  "dateProgress": "2024-07-09",
+  "saveAll": false,
+  "skip": "",
+  "selectedFunctionIds": ""
+}

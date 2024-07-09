@@ -1,0 +1,12 @@
+{
+    "masterId": 350042865,
+    "masterName": "testAPI learn tree S3ZKnz",
+    "packets": [
+        {
+            "action": "sort",
+            "itemId": 350042865,
+            "sortedIds": "350042866,350041744,350042867,350042870"
+        }
+    ],
+    "_utcOffsetMinutes": 240
+}

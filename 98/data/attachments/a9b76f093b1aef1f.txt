@@ -1,0 +1,13 @@
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: warn, messages: Using "globals" is deprecated. Use "pm.globals" instead.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: log, messages: Plan does not have property firstDayOfWeek
+level: warn, messages: Using "globals" is deprecated. Use "pm.globals" instead.
+level: warn, messages: Using "request" is deprecated. Use "pm.request" instead.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: log, messages: Status sent for case: 54321

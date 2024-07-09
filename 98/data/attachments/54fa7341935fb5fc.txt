@@ -1,0 +1,36 @@
+{
+    "draftName": "Office Location 2 - MfIec",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "recurrenceEndsOn": "2024-08-11",
+    "startDate": "2024-07-10T00:00:00.000Z",
+    "endDate": "2024-07-14T00:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "balanced",
+    "utilizationHours": "AuthorizedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 180
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594868
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594868
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": [
+            54545
+        ]
+    }
+}

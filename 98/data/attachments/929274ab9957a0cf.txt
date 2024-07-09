@@ -1,0 +1,1 @@
+{"template":{"id":75137,"organizationId":288525,"createById":288525,"createdOn":"2024-07-09T07:17:40.5100000Z","dynamicName":"d_name templateFOgs3","name":"name note templatec5u02","formMode":true,"resourceTemplateTypeId":0,"resourceTemplateGroupId":0,"resourceTemplateId":0,"expirationDays":0,"sections":[]},"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": {
+      "sessionId": 836405,
+      "itemId": 350042876
+    },
+    "lastActivity": 57967876,
+    "lastGraphedDataValueId": -1,
+    "type": "prompt",
+    "positive": true,
+    "trials": [
+      {
+        "author": 288525,
+        "value": "NR"
+      },
+      {
+        "author": 288525,
+        "value": "Simultaneous Imitation"
+      },
+      {
+        "author": 288525,
+        "value": "cuss"
+      }
+    ],
+    "date": "2024-07-09T07:19:27.888Z"
+  }
+]

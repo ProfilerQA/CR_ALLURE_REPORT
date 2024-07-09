@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"","id":10447852,"name":"Appointment-types namehcbN5","secLength":3600,"deletedOn":"","deletedBy":"","provider":288525},"result":"OK","failed":false,"cachedTime":0}

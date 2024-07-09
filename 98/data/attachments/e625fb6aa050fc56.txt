@@ -1,0 +1,13 @@
+{
+  "ExcludedTimesheetLabels": [
+    "774"
+  ],
+  "IncludeDriveTime": true,
+  "RequireAdminApproval": true,
+  "EnableAppointmentCreation": true,
+  "AppointmentContactId": "288525",
+  "AppointmentLabels": [
+    "15"
+  ],
+  "AppointmentServiceCodeId": "117"
+}

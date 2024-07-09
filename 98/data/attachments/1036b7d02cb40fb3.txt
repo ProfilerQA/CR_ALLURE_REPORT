@@ -1,0 +1,18 @@
+{
+    "id": "7162",
+    "batchId": "7162",
+    "description": "edited description Q3saG",
+    "reference": "Test",
+    "transactionDate": "2019-04-24",
+    "depositDate": "2019-04-25",
+    "payer": "edited payer NEs3k",
+    "amount": "77",
+    "_track": {
+        "channel": "billingmanager",
+        "action": "payments/transactions/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    }
+}

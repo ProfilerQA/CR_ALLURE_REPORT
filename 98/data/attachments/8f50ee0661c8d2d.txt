@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/09/2024 10:19:53","requesttime":46,"fields":{"Id":2048,"Color":"0000ff|00ff00","CurrentUserId":288525,"ParentLabelId":"","Name":"Test label - 36"},"cacheKey":"","cacheDate":"07/09/2024 07:19:53","querytime":16,"result":"ok"}

@@ -1,0 +1,14 @@
+{
+    "Content-type": "application/json; charset=UTF-8",
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "scheme": "https",
+    "path": "/api/?scheduling.deletemultipleevents",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "76ebfb81-f3dc-4284-9835-ab04e621664c",
+    "Host": "beta-ent-dev-members.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "409",
+    "Cookie": "crud={\"switched\":false,\"type\":572,\"id\":288525,\"isx\":false}; crsd=Q55mkDUQd1E94UcT8XDWu9GDWLKETOsEmM6XVdh2vOkTvIIyEzunZeKfu9UDa2Buytn5AuyZCLFB2ci/l3dIORkiMBMAqhieqjgHJ3iXIrqWP+GrGpgv1KpcohimQWW60hcNlaOuYygxJl7XbmKYx0gSJDX44bBgE7yCMhM7p2U37ctJ847RrjEmXtduYpjHhDTgViWf69rPjk8pxp24y90f1KQMTFrpoM1secCVeL+fs3RIxjNnNBnQg5YU+C4JMbSGfasfFSYkU3CyTY9JxBO8gjITO6dlyPKMSUv7vI7z43+7kYaa3vsRFZxtO5eRxoh/VRSnSZOe481t4xBuxT7LPtIixhRMuO0RcaAhKrPocQjiNXW+KbOlo0JuWnDe2DEi7E3Urfw=; uiver=24.7.0-alpha.219; 253103=In8kEL4ulGSNNZ174zxk16O+G6fiQkVXsx+9OwsEVhv6I1k2iDt5pd4L2dwycUctcGm4a6/ygb05qMUsrnJRRA5KTEoZa+KGEA+jjsnJN1+4kgVSTg1662/xAo+XO7TZrNlz6fI+XGGHThhqjCpV22Ri5dvMCIJwj4TblkklRBqm75JQ; TS01dc4fc6=01ba975617fe8167316b48726c41b18cd0452a36695c2e2b9325000e9b007c1b760834581a836c2140f31a9f34ad656040cef3b40c"
+}

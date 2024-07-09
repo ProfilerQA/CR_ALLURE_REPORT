@@ -1,0 +1,54 @@
+{
+    "draftName": "Office Location 1 - XZG3D",
+    "recurrenceEndsOn": "2024-07-17",
+    "locationTimeZone": "America/Los_Angeles",
+    "optimizationType": "Clinic",
+    "startDate": "2024-07-10T17:00:00.000Z",
+    "endDate": "2024-07-10T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "optimizeBy": "balanced",
+    "utilizationHours": "AuthorizedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594851
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594851
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    },
+    "employeeCancellationDetails": [
+        {
+            "providerId": 3029391,
+            "startDateTime": "2024-07-10T23:59:59",
+            "endDateTime": "2024-07-10T23:59:59",
+            "isAllDay": true,
+            "reasonId": 1,
+            "additionalNotes": "API test",
+            "coverageLabels": [],
+            "includeLabelIds": [],
+            "excludeLabelIds": []
+        }
+    ],
+    "timeBlocksStart": 420,
+    "timeBlocksEnd": 1260,
+    "timeBlocksDurations": 245,
+    "queryFields": [
+        "numberOfClients",
+        "numberOfProviders"
+    ]
+}

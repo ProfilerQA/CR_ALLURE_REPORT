@@ -1,0 +1,35 @@
+{
+    "draftName": "Office Location 1 - wQFCr",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "optimizeBy": "balanced",
+    "startDate": "2024-07-10T17:00:00.000Z",
+    "endDate": "2024-07-10T17:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": true,
+        "minutesThresholdForLunch": 330,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [
+            244282
+        ],
+        "locationFilter": [
+            3594837
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594837
+        ]
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

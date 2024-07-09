@@ -1,0 +1,7 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "draftId": "{{optimizationC000005Draft5Id}}"
+    },
+    "type": "EVENT_DELETE"
+}

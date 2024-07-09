@@ -1,0 +1,3 @@
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
+level: warn, messages: Using "globals" is deprecated. Use "pm.globals" instead.
+level: warn, messages: Using "postman.setNextRequest" is deprecated. Use "pm.execution.setNextRequest()" instead.
