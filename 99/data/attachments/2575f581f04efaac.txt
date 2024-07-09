@@ -1,0 +1,1 @@
+{"sessionInfo":{"id":258922,"name":"new name sessiont9T8zZn8x3","creationDate":"2019-05-06T00:00:00.0000000Z","isComplete":false,"assignedToId":384637,"authorId":288525,"contactName":"Q. Therapy","assignedName":"A. Test","lastAccessed":"0001-01-01T00:00:00.0000000Z"},"lastActivityId":0,"result":"OK","failed":false,"cachedTime":0}

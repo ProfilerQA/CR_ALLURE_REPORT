@@ -1,0 +1,36 @@
+{
+    "draftName": "Office Location 1 - f0u95",
+    "optimizeBy": null,
+    "startDate": null,
+    "endDate": null,
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "lengthOfLunch": 30,
+        "minutesThresholdForLunch": 300
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594914
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594914
+        ],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    },
+    "queryFields": [
+        "numberOfClients",
+        "numberOfProviders"
+    ]
+}

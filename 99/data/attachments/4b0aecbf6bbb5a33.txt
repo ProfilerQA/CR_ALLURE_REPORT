@@ -1,0 +1,1 @@
+{"id":0,"total":0,"result":"OK","responseStatus":{"errorCode":"BadRequest","message":"Another session has been recorded during the entered time","errors":[]},"failed":false,"cachedTime":0}

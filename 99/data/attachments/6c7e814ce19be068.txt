@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 17:09:57","success":true,"requesttime":78,"cacheKey":"","cacheDate":"07/09/2024 14:09:57","querytime":0,"exportUrl":"https://s3.amazonaws.com/ent-dev-docs.centralreach.com/Attendance_Export_7/9/2024%202:09:57%20PM.csv?AWSAccessKeyId=AKIAJWWGOJJ755LSWULA&Expires=1720534498&Signature=2ahYZ3mC1DlqU2jn8ADp%2Bp21JPA%3D","result":"ok"}

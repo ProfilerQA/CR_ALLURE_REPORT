@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/09/2024 17:12:16","success":true,"requesttime":31,"results":[{"InsuranceCompanyId":18620,"FeeScheduleName":"Fee schedule rCi8C","FeeScheduleId":45458,"CompanyName":" A+ Arts Academy","PlanName":"Standard","InsurancePlanId":22150}],"cacheDate":"07/09/2024 14:12:16","querytime":0,"result":"ok"}

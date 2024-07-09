@@ -1,0 +1,16 @@
+{
+    "course": {{optimizationRecurrenceEvent2CourseId}},
+    "date": "2024-07-11",
+    "event": {{optimizationRecurrenceEvent2EventId}},
+    "justThis": false,
+    "userTimeZone": "America/New_York",
+    "_track": {
+        "channel": "scheduling",
+        "action": "event/preview",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 240
+}

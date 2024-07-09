@@ -1,0 +1,1 @@
+{"fields":{"color":"999999|ffffff","ownerContactId":288525,"isDeleted":false,"labelId":425569,"name":"edited contact labelcK87SIbXcm2w","parentLabelId":425570},"result":"OK","failed":false,"cachedTime":0}

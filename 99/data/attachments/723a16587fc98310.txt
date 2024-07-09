@@ -1,0 +1,7 @@
+{
+    "labelId": "24078",
+    "name": "edite labelMwDJzTL564wz",
+    "parentId": "24079",
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

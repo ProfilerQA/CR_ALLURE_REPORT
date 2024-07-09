@@ -1,0 +1,7 @@
+{
+    "group": "mand",
+    "area": "milestones",
+    "vbClientId": 4376,
+    "assessmentId": 7961,
+    "_utcOffsetMinutes": 240
+}

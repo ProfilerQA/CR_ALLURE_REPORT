@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 17:11:06","success":true,"querytime":0,"requesttime":30,"cacheKey":"","cacheDate":"07/09/2024 14:11:06","result":"ok","records":[{"Id":2,"Name":"Educational"},{"Id":1,"Name":"Medical"},{"Id":3,"Name":"Other"}]}

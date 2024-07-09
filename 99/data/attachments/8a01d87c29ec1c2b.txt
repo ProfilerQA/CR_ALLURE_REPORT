@@ -1,0 +1,1 @@
+{"success":true,"settings":{"AccruedUseFirstPayor":false,"UseAgreedView":true,"AccruedPaymentCutOff":0,"AccruedCutOffChangeCount":"","AccruedCutOffLastChange":"","ContactId":288525,"AccruedCutOff":5,"Id":123,"OrganizationId":288525},"requesttime":0,"cacheKey":"","cacheExpires":"07/09/2024 17:12:21","cacheDate":"07/09/2024 14:12:21","querytime":0,"result":"ok"}

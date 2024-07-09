@@ -1,0 +1,6 @@
+{
+    "name": "new message labelpojyCu7Ao7OM",
+    "parentId": 0,
+    "color": "492146|ffffff",
+    "isOrgLabel": false
+}

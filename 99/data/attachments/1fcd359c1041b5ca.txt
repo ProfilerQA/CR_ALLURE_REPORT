@@ -1,0 +1,7 @@
+{
+  "Type": "3",
+  "Name": "new learn tree 6s9l0j",
+  "Scope": "private",
+  "License": "multi-modify",
+  "Price": 100
+}

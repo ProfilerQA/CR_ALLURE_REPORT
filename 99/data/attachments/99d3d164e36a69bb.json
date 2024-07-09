@@ -1,0 +1,11 @@
+{
+    "date": "Tue, 09 Jul 2024 14:08:43 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "146",
+    "cache-control": "private",
+    "set-cookie": "TS01dc4fc6=010b81a928a70d666e3672756748202afae3971b64ed5e92cb98db07a4a48165d0dbab8651b9f67e88e470940f5ae31280de9a7e66; Path=/; Secure; HttpOnly; SameSite=Strict;",
+    "x-envoy-upstream-service-time": "575",
+    "strict-transport-security": "max-age=31536000",
+    "x-volterra-location": "ny8-nyc",
+    "server": "volt-adc"
+}

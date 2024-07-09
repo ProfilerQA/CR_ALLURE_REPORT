@@ -1,0 +1,16 @@
+{
+    "content-type": "application/json; charset=UTF-8",
+    "authority": "beta-ent-dev-members.env.centralreach.com",
+    "path": "/crxapi/scheduling/draft-schedules?jobType=optimizations",
+    "referer": "https://beta-ent-dev-members.env.centralreach.com/",
+    "x-crapi-clientsource": "members-spa",
+    "x-requested-with": "XMLHttpRequest",
+    "User-Agent": "PostmanRuntime/7.39.0",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "4c9428f9-31d4-4a46-b298-405b63809789",
+    "Host": "beta-ent-dev-api.env.centralreach.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Cookie": "ss-id=ftUQmrrK9QnPD6nVJ6Ek; ss-pid=UhkXaPW2LGKVN6m1QXJA; ss-opt=temp"
+}

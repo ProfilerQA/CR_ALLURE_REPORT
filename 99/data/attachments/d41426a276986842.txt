@@ -1,0 +1,1 @@
+{"courseId":146865747,"qualifications":[],"conflicts":[],"placeOfServiceConflicts":false,"serializedBlackoutDateConflicts":[],"isAllAuthorizedDatesBlackedOut":false,"startDateConsideringBlackouts":"2024-07-09","geolocationValidationError":false,"eventSeriesExceedsDateLimit":false,"result":"OK","failed":false,"cachedTime":0}

@@ -1,0 +1,9 @@
+{
+    "useDynamoDb": true,
+    "payload": {
+        "eventId": 613286158,
+        "addressId": 3594893,
+        "timezone": "America/Los_Angeles"
+    },
+    "type": "EVENT_UPDATE"
+}

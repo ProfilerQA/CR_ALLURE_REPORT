@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/09/2024 17:11:20","requesttime":15,"fields":{"UpdatedByContactId":288525,"Id":45480,"Description":"Description","IsActive":true,"IsDefault":false,"ProviderId":288525,"ModifiedDate":"07/09/2024 14:11:20","CreationDate":"07/09/2024 14:11:20","Name":"Fee scheduleYvjWu"},"cacheKey":"","cacheDate":"07/09/2024 14:11:20","querytime":0,"result":"ok"}

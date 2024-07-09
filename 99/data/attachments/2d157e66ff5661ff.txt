@@ -1,0 +1,1 @@
+{"success":true,"cacheExpires":"07/09/2024 17:12:26","requesttime":16,"fields":{"Id":303071,"FeeScheduleId":5380,"DefaultRate":123.00,"numFeeSchedules":1,"FeeScheduleName":"Superstar Therapy"},"cacheKey":"","cacheDate":"07/09/2024 14:12:26","querytime":15,"result":"ok"}

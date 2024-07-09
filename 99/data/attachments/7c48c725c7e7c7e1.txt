@@ -1,0 +1,1 @@
+{"events":[{"draftId":"288525-optimizations-1720534284860|668d45138e624c001089df2b","providerId":3029528,"clientId":3029529,"addressId":3594899,"date":"2024-07-10","startTime":32400,"endTime":39600,"serviceLines":[],"timezone":"America/New_York","status":"new"}],"result":"OK","failed":false,"cachedTime":0}

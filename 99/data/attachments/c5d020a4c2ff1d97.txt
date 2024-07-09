@@ -1,0 +1,7 @@
+{
+    "labelId": "9589",
+    "name": "edited contact labelspqTuyhJsdtf",
+    "parentId": "9590",
+    "color": "999999|ffffff",
+    "isOrgLabel": false
+}

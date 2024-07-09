@@ -1,0 +1,5 @@
+{
+    "items": "350044020,350044021,{{bundlesCourseItemId}},350044024",
+    "masterId": 350044020,
+    "_utcOffsetMinutes": 240
+}

@@ -1,0 +1,1 @@
+{"cacheKey":"","cacheExpires":"07/09/2024 17:09:51","success":true,"requesttime":742,"assessment":7960,"cacheDate":"07/09/2024 14:09:51","querytime":0,"result":"ok"}

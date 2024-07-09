@@ -1,0 +1,1 @@
+{"appointmentType":{"description":"","id":10447856,"name":"Appointment-types name4NxWc","secLength":3600,"deletedOn":"","deletedBy":"","provider":3029533},"result":"OK","failed":false,"cachedTime":0}

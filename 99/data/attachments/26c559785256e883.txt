@@ -1,0 +1,15 @@
+{
+    "entryId": 755964,
+    "name": "Availability for Employee3 - 9lJwZ",
+    "notes": "",
+    "startDate": "07/09/2024",
+    "endDate": "07/09/2024",
+    "startTs": 32400,
+    "endTs": 36000,
+    "location": 3594939,
+    "visibility": "0",
+    "types": "",
+    "days": "0,1,2,3,4,5,6",
+    "providerId": 3029618,
+    "_utcOffsetMinutes": 240
+}

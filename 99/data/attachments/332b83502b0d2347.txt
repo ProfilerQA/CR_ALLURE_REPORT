@@ -1,0 +1,29 @@
+{
+    "draftName": "Office",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "Existing",
+    "optimizeBy": "highImpact",
+    "startDate": "2024-07-10T16:00:00.000Z",
+    "endDate": "2024-07-11T16:00:00.000Z",
+    "sessionRangeStart": 30,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594881
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594881
+        ],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

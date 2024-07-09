@@ -1,0 +1,35 @@
+{
+    "draftName": "Office Location 1 - 1BsbK",
+    "recurrenceEndsOn":"2024-08-09",
+    "locationTimeZone": "America/New_York",
+    "optimizationType": "FillClientHours",
+    "optimizeBy": "balanced",
+    "startDate": "2024-07-10T17:00:00.000Z",
+    "endDate": "2024-07-12T17:00:00.000Z",
+    "sessionRangeStart": 105,
+    "sessionRangeEnd": 120,
+    "utilizationHours": "ClientAcceptedHours",
+    "lunchBreak": {
+        "includeLunch": false,
+        "minutesThresholdForLunch": 300,
+        "lengthOfLunch": 30
+    },
+    "clientFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594910
+        ]
+    },
+    "providerFilters": {
+        "includeLabelFilter": [],
+        "excludeLabelFilter": [],
+        "locationFilter": [
+            3594910
+        ],
+        "includeGenerics": false
+    },
+    "serviceCodeFilters": {
+        "includeLabelFilter": []
+    }
+}

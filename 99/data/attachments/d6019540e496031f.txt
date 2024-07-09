@@ -1,0 +1,1 @@
+{"cacheExpires":"07/09/2024 17:09:30","success":true,"totals":{"TotalCompleted":33,"Total":60,"Noop":0,"TotalOpen":27,"TotalDeleted":35,"TotalSeconds":""},"requesttime":46,"cacheKey":"","cacheDate":"07/09/2024 14:09:30","querytime":0,"result":"ok"}

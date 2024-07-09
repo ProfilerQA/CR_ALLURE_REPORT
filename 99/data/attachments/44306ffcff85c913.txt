@@ -1,0 +1,14 @@
+{
+    "permissionId": 3,
+    "employeeIds1": "3029502",
+    "employeeIds2": "3029502",
+    "_track": {
+        "channel": "scheduling",
+        "action": "settings/permissions/bulk/update",
+        "source": "Desktop",
+        "latitude": 0,
+        "longitude": 0,
+        "metric": 0
+    },
+    "_utcOffsetMinutes": 300
+}
